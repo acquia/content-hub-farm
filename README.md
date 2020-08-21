@@ -19,6 +19,8 @@ doing any site configuration.
 
 - Download and install [Ngrok](https://ngrok.com). You will need a paid version if you want to use multiple domains.
 
+- Download and install [Composer](https://getcomposer.org/).
+
 - Clone this repository.
 
         $git clone git@github.com:abarriosr/content-hub-farm.git
